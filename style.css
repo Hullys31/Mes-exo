@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: blue;
+}
+
+.travaux{
+    justify-content: center;
+    margin: 20px;
+    height: 150px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(242, 184, 184);
+}
